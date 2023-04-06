@@ -1,4 +1,4 @@
-[![Header](https://github.com/gremoriru/GremoriRU/blob/main/assets/Postman.jpg)]()
+[![Header](https://github.com/gremoriru/Postman/blob/main/asset/Postman.jpg)]()
 ## This repository stores various public collections created during the learning process
 
 ### Testing Documentation
